@@ -1,0 +1,2935 @@
+[
+  {
+    "id": 1,
+    "slug": "nike-pro-basketball-elite-987",
+    "name": "Nike Pro Basketball Elite 987",
+    "category": "Basketball",
+    "brand": "Nike",
+    "price": 1750,
+    "currency": "INR",
+    "colors": [
+      "orange",
+      "black"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 47,
+    "imageUrl": "https://images.unsplash.com/photo-1519861531473-9200262188bf?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Nike Pro Basketball Elite 987. Engineered by Nike for maximum durability, comfort, and results in basketball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "basketball",
+      "nike",
+      "sports",
+      "professional",
+      "basketball"
+    ],
+    "featured": true
+  },
+  {
+    "id": 2,
+    "slug": "jordan-high-top-sneakers-elite-824",
+    "name": "Jordan High-Top Sneakers Elite 824",
+    "category": "Basketball",
+    "brand": "Jordan",
+    "price": 5228,
+    "currency": "INR",
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "stock": 7,
+    "imageUrl": "https://images.unsplash.com/photo-1542652694-40abf526446e?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Jordan High-Top Sneakers Elite 824. Engineered by Jordan for maximum durability, comfort, and results in basketball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "basketball",
+      "jordan",
+      "sports",
+      "professional",
+      "sneakers"
+    ],
+    "featured": true
+  },
+  {
+    "id": 3,
+    "slug": "spalding-player-jersey-elite-900",
+    "name": "Spalding Player Jersey Elite 900",
+    "category": "Basketball",
+    "brand": "Spalding",
+    "price": 1037,
+    "currency": "INR",
+    "colors": [
+      "yellow"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 50,
+    "imageUrl": "https://images.unsplash.com/photo-1515523110800-9415d13b84a8?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Spalding Player Jersey Elite 900. Engineered by Spalding for maximum durability, comfort, and results in basketball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "basketball",
+      "spalding",
+      "sports",
+      "professional",
+      "jersey"
+    ],
+    "featured": true
+  },
+  {
+    "id": 4,
+    "slug": "under-armour-training-shorts-elite-393",
+    "name": "Under Armour Training Shorts Elite 393",
+    "category": "Basketball",
+    "brand": "Under Armour",
+    "price": 1422,
+    "currency": "INR",
+    "colors": [
+      "red",
+      "green"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 65,
+    "imageUrl": "https://images.unsplash.com/photo-1505666287802-931dc83948e9?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Under Armour Training Shorts Elite 393. Engineered by Under Armour for maximum durability, comfort, and results in basketball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "basketball",
+      "under armour",
+      "sports",
+      "professional",
+      "shorts"
+    ],
+    "featured": false
+  },
+  {
+    "id": 5,
+    "slug": "wilson-pro-basketball-elite-684",
+    "name": "Wilson Pro Basketball Elite 684",
+    "category": "Basketball",
+    "brand": "Wilson",
+    "price": 3495,
+    "currency": "INR",
+    "colors": [
+      "white",
+      "yellow"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 76,
+    "imageUrl": "https://images.unsplash.com/photo-1519861531473-9200262188bf?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Wilson Pro Basketball Elite 684. Engineered by Wilson for maximum durability, comfort, and results in basketball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "basketball",
+      "wilson",
+      "sports",
+      "professional",
+      "basketball"
+    ],
+    "featured": false
+  },
+  {
+    "id": 6,
+    "slug": "nike-high-top-sneakers-elite-699",
+    "name": "Nike High-Top Sneakers Elite 699",
+    "category": "Basketball",
+    "brand": "Nike",
+    "price": 6267,
+    "currency": "INR",
+    "colors": [
+      "white",
+      "grey"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "stock": 84,
+    "imageUrl": "https://images.unsplash.com/photo-1542652694-40abf526446e?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Nike High-Top Sneakers Elite 699. Engineered by Nike for maximum durability, comfort, and results in basketball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "basketball",
+      "nike",
+      "sports",
+      "professional",
+      "sneakers"
+    ],
+    "featured": false
+  },
+  {
+    "id": 7,
+    "slug": "jordan-player-jersey-elite-850",
+    "name": "Jordan Player Jersey Elite 850",
+    "category": "Basketball",
+    "brand": "Jordan",
+    "price": 2752,
+    "currency": "INR",
+    "colors": [
+      "grey",
+      "blue"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 95,
+    "imageUrl": "https://images.unsplash.com/photo-1515523110800-9415d13b84a8?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Jordan Player Jersey Elite 850. Engineered by Jordan for maximum durability, comfort, and results in basketball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "basketball",
+      "jordan",
+      "sports",
+      "professional",
+      "jersey"
+    ],
+    "featured": false
+  },
+  {
+    "id": 8,
+    "slug": "spalding-training-shorts-elite-957",
+    "name": "Spalding Training Shorts Elite 957",
+    "category": "Basketball",
+    "brand": "Spalding",
+    "price": 3029,
+    "currency": "INR",
+    "colors": [
+      "grey",
+      "black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 65,
+    "imageUrl": "https://images.unsplash.com/photo-1505666287802-931dc83948e9?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Spalding Training Shorts Elite 957. Engineered by Spalding for maximum durability, comfort, and results in basketball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "basketball",
+      "spalding",
+      "sports",
+      "professional",
+      "shorts"
+    ],
+    "featured": false
+  },
+  {
+    "id": 9,
+    "slug": "under-armour-pro-basketball-elite-804",
+    "name": "Under Armour Pro Basketball Elite 804",
+    "category": "Basketball",
+    "brand": "Under Armour",
+    "price": 3496,
+    "currency": "INR",
+    "colors": [
+      "blue",
+      "yellow"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 18,
+    "imageUrl": "https://images.unsplash.com/photo-1519861531473-9200262188bf?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Under Armour Pro Basketball Elite 804. Engineered by Under Armour for maximum durability, comfort, and results in basketball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "basketball",
+      "under armour",
+      "sports",
+      "professional",
+      "basketball"
+    ],
+    "featured": false
+  },
+  {
+    "id": 10,
+    "slug": "wilson-high-top-sneakers-elite-277",
+    "name": "Wilson High-Top Sneakers Elite 277",
+    "category": "Basketball",
+    "brand": "Wilson",
+    "price": 6039,
+    "currency": "INR",
+    "colors": [
+      "green",
+      "blue"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "stock": 49,
+    "imageUrl": "https://images.unsplash.com/photo-1542652694-40abf526446e?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Wilson High-Top Sneakers Elite 277. Engineered by Wilson for maximum durability, comfort, and results in basketball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "basketball",
+      "wilson",
+      "sports",
+      "professional",
+      "sneakers"
+    ],
+    "featured": false
+  },
+  {
+    "id": 11,
+    "slug": "nike-player-jersey-elite-139",
+    "name": "Nike Player Jersey Elite 139",
+    "category": "Basketball",
+    "brand": "Nike",
+    "price": 2661,
+    "currency": "INR",
+    "colors": [
+      "white",
+      "orange"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 71,
+    "imageUrl": "https://images.unsplash.com/photo-1515523110800-9415d13b84a8?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Nike Player Jersey Elite 139. Engineered by Nike for maximum durability, comfort, and results in basketball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "basketball",
+      "nike",
+      "sports",
+      "professional",
+      "jersey"
+    ],
+    "featured": false
+  },
+  {
+    "id": 12,
+    "slug": "jordan-training-shorts-elite-592",
+    "name": "Jordan Training Shorts Elite 592",
+    "category": "Basketball",
+    "brand": "Jordan",
+    "price": 3626,
+    "currency": "INR",
+    "colors": [
+      "red",
+      "green"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 63,
+    "imageUrl": "https://images.unsplash.com/photo-1505666287802-931dc83948e9?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Jordan Training Shorts Elite 592. Engineered by Jordan for maximum durability, comfort, and results in basketball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "basketball",
+      "jordan",
+      "sports",
+      "professional",
+      "shorts"
+    ],
+    "featured": false
+  },
+  {
+    "id": 13,
+    "slug": "spalding-pro-basketball-elite-625",
+    "name": "Spalding Pro Basketball Elite 625",
+    "category": "Basketball",
+    "brand": "Spalding",
+    "price": 2963,
+    "currency": "INR",
+    "colors": [
+      "blue"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 31,
+    "imageUrl": "https://images.unsplash.com/photo-1519861531473-9200262188bf?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Spalding Pro Basketball Elite 625. Engineered by Spalding for maximum durability, comfort, and results in basketball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "basketball",
+      "spalding",
+      "sports",
+      "professional",
+      "basketball"
+    ],
+    "featured": false
+  },
+  {
+    "id": 14,
+    "slug": "under-armour-high-top-sneakers-elite-330",
+    "name": "Under Armour High-Top Sneakers Elite 330",
+    "category": "Basketball",
+    "brand": "Under Armour",
+    "price": 9101,
+    "currency": "INR",
+    "colors": [
+      "orange",
+      "green"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "stock": 23,
+    "imageUrl": "https://images.unsplash.com/photo-1542652694-40abf526446e?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Under Armour High-Top Sneakers Elite 330. Engineered by Under Armour for maximum durability, comfort, and results in basketball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "basketball",
+      "under armour",
+      "sports",
+      "professional",
+      "sneakers"
+    ],
+    "featured": false
+  },
+  {
+    "id": 15,
+    "slug": "wilson-player-jersey-elite-766",
+    "name": "Wilson Player Jersey Elite 766",
+    "category": "Basketball",
+    "brand": "Wilson",
+    "price": 3033,
+    "currency": "INR",
+    "colors": [
+      "red",
+      "yellow"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 10,
+    "imageUrl": "https://images.unsplash.com/photo-1515523110800-9415d13b84a8?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Wilson Player Jersey Elite 766. Engineered by Wilson for maximum durability, comfort, and results in basketball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "basketball",
+      "wilson",
+      "sports",
+      "professional",
+      "jersey"
+    ],
+    "featured": false
+  },
+  {
+    "id": 16,
+    "slug": "nike-training-shorts-elite-520",
+    "name": "Nike Training Shorts Elite 520",
+    "category": "Basketball",
+    "brand": "Nike",
+    "price": 3572,
+    "currency": "INR",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 51,
+    "imageUrl": "https://images.unsplash.com/photo-1505666287802-931dc83948e9?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Nike Training Shorts Elite 520. Engineered by Nike for maximum durability, comfort, and results in basketball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "basketball",
+      "nike",
+      "sports",
+      "professional",
+      "shorts"
+    ],
+    "featured": false
+  },
+  {
+    "id": 17,
+    "slug": "jordan-pro-basketball-elite-403",
+    "name": "Jordan Pro Basketball Elite 403",
+    "category": "Basketball",
+    "brand": "Jordan",
+    "price": 2892,
+    "currency": "INR",
+    "colors": [
+      "green",
+      "white"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 46,
+    "imageUrl": "https://images.unsplash.com/photo-1519861531473-9200262188bf?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Jordan Pro Basketball Elite 403. Engineered by Jordan for maximum durability, comfort, and results in basketball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "basketball",
+      "jordan",
+      "sports",
+      "professional",
+      "basketball"
+    ],
+    "featured": false
+  },
+  {
+    "id": 18,
+    "slug": "spalding-high-top-sneakers-elite-967",
+    "name": "Spalding High-Top Sneakers Elite 967",
+    "category": "Basketball",
+    "brand": "Spalding",
+    "price": 9040,
+    "currency": "INR",
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "stock": 17,
+    "imageUrl": "https://images.unsplash.com/photo-1542652694-40abf526446e?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Spalding High-Top Sneakers Elite 967. Engineered by Spalding for maximum durability, comfort, and results in basketball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "basketball",
+      "spalding",
+      "sports",
+      "professional",
+      "sneakers"
+    ],
+    "featured": false
+  },
+  {
+    "id": 19,
+    "slug": "under-armour-player-jersey-elite-305",
+    "name": "Under Armour Player Jersey Elite 305",
+    "category": "Basketball",
+    "brand": "Under Armour",
+    "price": 2759,
+    "currency": "INR",
+    "colors": [
+      "black",
+      "green"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 54,
+    "imageUrl": "https://images.unsplash.com/photo-1515523110800-9415d13b84a8?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Under Armour Player Jersey Elite 305. Engineered by Under Armour for maximum durability, comfort, and results in basketball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "basketball",
+      "under armour",
+      "sports",
+      "professional",
+      "jersey"
+    ],
+    "featured": false
+  },
+  {
+    "id": 20,
+    "slug": "wilson-training-shorts-elite-315",
+    "name": "Wilson Training Shorts Elite 315",
+    "category": "Basketball",
+    "brand": "Wilson",
+    "price": 1568,
+    "currency": "INR",
+    "colors": [
+      "white",
+      "red"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 78,
+    "imageUrl": "https://images.unsplash.com/photo-1505666287802-931dc83948e9?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Wilson Training Shorts Elite 315. Engineered by Wilson for maximum durability, comfort, and results in basketball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "basketball",
+      "wilson",
+      "sports",
+      "professional",
+      "shorts"
+    ],
+    "featured": false
+  },
+  {
+    "id": 21,
+    "slug": "adidas-match-ball-elite-698",
+    "name": "Adidas Match Ball Elite 698",
+    "category": "Football",
+    "brand": "Adidas",
+    "price": 2567,
+    "currency": "INR",
+    "colors": [
+      "yellow",
+      "blue"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 41,
+    "imageUrl": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Adidas Match Ball Elite 698. Engineered by Adidas for maximum durability, comfort, and results in football. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "football",
+      "adidas",
+      "sports",
+      "professional",
+      "ball"
+    ],
+    "featured": true
+  },
+  {
+    "id": 22,
+    "slug": "nike-turf-cleats-elite-729",
+    "name": "Nike Turf Cleats Elite 729",
+    "category": "Football",
+    "brand": "Nike",
+    "price": 10282,
+    "currency": "INR",
+    "colors": [
+      "green",
+      "orange"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "stock": 40,
+    "imageUrl": "https://images.unsplash.com/photo-1511886929837-354d827aae26?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Nike Turf Cleats Elite 729. Engineered by Nike for maximum durability, comfort, and results in football. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "football",
+      "nike",
+      "sports",
+      "professional",
+      "cleats"
+    ],
+    "featured": true
+  },
+  {
+    "id": 23,
+    "slug": "puma-shin-guards-elite-647",
+    "name": "Puma Shin Guards Elite 647",
+    "category": "Football",
+    "brand": "Puma",
+    "price": 989,
+    "currency": "INR",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 12,
+    "imageUrl": "https://images.unsplash.com/photo-1508344928928-7137b67de192?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Puma Shin Guards Elite 647. Engineered by Puma for maximum durability, comfort, and results in football. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "football",
+      "puma",
+      "sports",
+      "professional",
+      "guards"
+    ],
+    "featured": true
+  },
+  {
+    "id": 24,
+    "slug": "umbro-goalkeeper-gloves-elite-353",
+    "name": "Umbro Goalkeeper Gloves Elite 353",
+    "category": "Football",
+    "brand": "Umbro",
+    "price": 1443,
+    "currency": "INR",
+    "colors": [
+      "yellow",
+      "white"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 27,
+    "imageUrl": "https://images.unsplash.com/photo-1624880357913-a8539b0625ce?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Umbro Goalkeeper Gloves Elite 353. Engineered by Umbro for maximum durability, comfort, and results in football. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "football",
+      "umbro",
+      "sports",
+      "professional",
+      "gloves"
+    ],
+    "featured": false
+  },
+  {
+    "id": 25,
+    "slug": "under-armour-match-ball-elite-310",
+    "name": "Under Armour Match Ball Elite 310",
+    "category": "Football",
+    "brand": "Under Armour",
+    "price": 3351,
+    "currency": "INR",
+    "colors": [
+      "white"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 62,
+    "imageUrl": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Under Armour Match Ball Elite 310. Engineered by Under Armour for maximum durability, comfort, and results in football. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "football",
+      "under armour",
+      "sports",
+      "professional",
+      "ball"
+    ],
+    "featured": false
+  },
+  {
+    "id": 26,
+    "slug": "adidas-turf-cleats-elite-804",
+    "name": "Adidas Turf Cleats Elite 804",
+    "category": "Football",
+    "brand": "Adidas",
+    "price": 3461,
+    "currency": "INR",
+    "colors": [
+      "grey",
+      "black"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "stock": 81,
+    "imageUrl": "https://images.unsplash.com/photo-1511886929837-354d827aae26?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Adidas Turf Cleats Elite 804. Engineered by Adidas for maximum durability, comfort, and results in football. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "football",
+      "adidas",
+      "sports",
+      "professional",
+      "cleats"
+    ],
+    "featured": false
+  },
+  {
+    "id": 27,
+    "slug": "nike-shin-guards-elite-476",
+    "name": "Nike Shin Guards Elite 476",
+    "category": "Football",
+    "brand": "Nike",
+    "price": 2734,
+    "currency": "INR",
+    "colors": [
+      "grey",
+      "blue"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 65,
+    "imageUrl": "https://images.unsplash.com/photo-1508344928928-7137b67de192?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Nike Shin Guards Elite 476. Engineered by Nike for maximum durability, comfort, and results in football. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "football",
+      "nike",
+      "sports",
+      "professional",
+      "guards"
+    ],
+    "featured": false
+  },
+  {
+    "id": 28,
+    "slug": "puma-goalkeeper-gloves-elite-730",
+    "name": "Puma Goalkeeper Gloves Elite 730",
+    "category": "Football",
+    "brand": "Puma",
+    "price": 3773,
+    "currency": "INR",
+    "colors": [
+      "orange",
+      "white"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 93,
+    "imageUrl": "https://images.unsplash.com/photo-1624880357913-a8539b0625ce?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Puma Goalkeeper Gloves Elite 730. Engineered by Puma for maximum durability, comfort, and results in football. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "football",
+      "puma",
+      "sports",
+      "professional",
+      "gloves"
+    ],
+    "featured": false
+  },
+  {
+    "id": 29,
+    "slug": "umbro-match-ball-elite-118",
+    "name": "Umbro Match Ball Elite 118",
+    "category": "Football",
+    "brand": "Umbro",
+    "price": 3593,
+    "currency": "INR",
+    "colors": [
+      "green",
+      "yellow"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 45,
+    "imageUrl": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Umbro Match Ball Elite 118. Engineered by Umbro for maximum durability, comfort, and results in football. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "football",
+      "umbro",
+      "sports",
+      "professional",
+      "ball"
+    ],
+    "featured": false
+  },
+  {
+    "id": 30,
+    "slug": "under-armour-turf-cleats-elite-397",
+    "name": "Under Armour Turf Cleats Elite 397",
+    "category": "Football",
+    "brand": "Under Armour",
+    "price": 9246,
+    "currency": "INR",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "stock": 52,
+    "imageUrl": "https://images.unsplash.com/photo-1511886929837-354d827aae26?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Under Armour Turf Cleats Elite 397. Engineered by Under Armour for maximum durability, comfort, and results in football. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "football",
+      "under armour",
+      "sports",
+      "professional",
+      "cleats"
+    ],
+    "featured": false
+  },
+  {
+    "id": 31,
+    "slug": "adidas-shin-guards-elite-526",
+    "name": "Adidas Shin Guards Elite 526",
+    "category": "Football",
+    "brand": "Adidas",
+    "price": 4494,
+    "currency": "INR",
+    "colors": [
+      "red",
+      "orange"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 32,
+    "imageUrl": "https://images.unsplash.com/photo-1508344928928-7137b67de192?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Adidas Shin Guards Elite 526. Engineered by Adidas for maximum durability, comfort, and results in football. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "football",
+      "adidas",
+      "sports",
+      "professional",
+      "guards"
+    ],
+    "featured": false
+  },
+  {
+    "id": 32,
+    "slug": "nike-goalkeeper-gloves-elite-125",
+    "name": "Nike Goalkeeper Gloves Elite 125",
+    "category": "Football",
+    "brand": "Nike",
+    "price": 2404,
+    "currency": "INR",
+    "colors": [
+      "black",
+      "red"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 95,
+    "imageUrl": "https://images.unsplash.com/photo-1624880357913-a8539b0625ce?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Nike Goalkeeper Gloves Elite 125. Engineered by Nike for maximum durability, comfort, and results in football. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "football",
+      "nike",
+      "sports",
+      "professional",
+      "gloves"
+    ],
+    "featured": false
+  },
+  {
+    "id": 33,
+    "slug": "puma-match-ball-elite-844",
+    "name": "Puma Match Ball Elite 844",
+    "category": "Football",
+    "brand": "Puma",
+    "price": 2837,
+    "currency": "INR",
+    "colors": [
+      "yellow"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 75,
+    "imageUrl": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Puma Match Ball Elite 844. Engineered by Puma for maximum durability, comfort, and results in football. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "football",
+      "puma",
+      "sports",
+      "professional",
+      "ball"
+    ],
+    "featured": false
+  },
+  {
+    "id": 34,
+    "slug": "umbro-turf-cleats-elite-622",
+    "name": "Umbro Turf Cleats Elite 622",
+    "category": "Football",
+    "brand": "Umbro",
+    "price": 8334,
+    "currency": "INR",
+    "colors": [
+      "grey",
+      "yellow"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "stock": 17,
+    "imageUrl": "https://images.unsplash.com/photo-1511886929837-354d827aae26?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Umbro Turf Cleats Elite 622. Engineered by Umbro for maximum durability, comfort, and results in football. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "football",
+      "umbro",
+      "sports",
+      "professional",
+      "cleats"
+    ],
+    "featured": false
+  },
+  {
+    "id": 35,
+    "slug": "under-armour-shin-guards-elite-667",
+    "name": "Under Armour Shin Guards Elite 667",
+    "category": "Football",
+    "brand": "Under Armour",
+    "price": 3204,
+    "currency": "INR",
+    "colors": [
+      "yellow",
+      "grey"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 24,
+    "imageUrl": "https://images.unsplash.com/photo-1508344928928-7137b67de192?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Under Armour Shin Guards Elite 667. Engineered by Under Armour for maximum durability, comfort, and results in football. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "football",
+      "under armour",
+      "sports",
+      "professional",
+      "guards"
+    ],
+    "featured": false
+  },
+  {
+    "id": 36,
+    "slug": "adidas-goalkeeper-gloves-elite-343",
+    "name": "Adidas Goalkeeper Gloves Elite 343",
+    "category": "Football",
+    "brand": "Adidas",
+    "price": 1376,
+    "currency": "INR",
+    "colors": [
+      "grey",
+      "blue"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 74,
+    "imageUrl": "https://images.unsplash.com/photo-1624880357913-a8539b0625ce?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Adidas Goalkeeper Gloves Elite 343. Engineered by Adidas for maximum durability, comfort, and results in football. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "football",
+      "adidas",
+      "sports",
+      "professional",
+      "gloves"
+    ],
+    "featured": false
+  },
+  {
+    "id": 37,
+    "slug": "nike-match-ball-elite-239",
+    "name": "Nike Match Ball Elite 239",
+    "category": "Football",
+    "brand": "Nike",
+    "price": 1071,
+    "currency": "INR",
+    "colors": [
+      "white",
+      "yellow"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 92,
+    "imageUrl": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Nike Match Ball Elite 239. Engineered by Nike for maximum durability, comfort, and results in football. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "football",
+      "nike",
+      "sports",
+      "professional",
+      "ball"
+    ],
+    "featured": false
+  },
+  {
+    "id": 38,
+    "slug": "puma-turf-cleats-elite-222",
+    "name": "Puma Turf Cleats Elite 222",
+    "category": "Football",
+    "brand": "Puma",
+    "price": 5937,
+    "currency": "INR",
+    "colors": [
+      "white",
+      "blue"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "stock": 84,
+    "imageUrl": "https://images.unsplash.com/photo-1511886929837-354d827aae26?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Puma Turf Cleats Elite 222. Engineered by Puma for maximum durability, comfort, and results in football. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "football",
+      "puma",
+      "sports",
+      "professional",
+      "cleats"
+    ],
+    "featured": false
+  },
+  {
+    "id": 39,
+    "slug": "umbro-shin-guards-elite-794",
+    "name": "Umbro Shin Guards Elite 794",
+    "category": "Football",
+    "brand": "Umbro",
+    "price": 2621,
+    "currency": "INR",
+    "colors": [
+      "yellow",
+      "blue"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 90,
+    "imageUrl": "https://images.unsplash.com/photo-1508344928928-7137b67de192?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Umbro Shin Guards Elite 794. Engineered by Umbro for maximum durability, comfort, and results in football. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "football",
+      "umbro",
+      "sports",
+      "professional",
+      "guards"
+    ],
+    "featured": false
+  },
+  {
+    "id": 40,
+    "slug": "under-armour-goalkeeper-gloves-elite-896",
+    "name": "Under Armour Goalkeeper Gloves Elite 896",
+    "category": "Football",
+    "brand": "Under Armour",
+    "price": 941,
+    "currency": "INR",
+    "colors": [
+      "red",
+      "black"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 67,
+    "imageUrl": "https://images.unsplash.com/photo-1624880357913-a8539b0625ce?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Under Armour Goalkeeper Gloves Elite 896. Engineered by Under Armour for maximum durability, comfort, and results in football. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "football",
+      "under armour",
+      "sports",
+      "professional",
+      "gloves"
+    ],
+    "featured": false
+  },
+  {
+    "id": 41,
+    "slug": "bauer-composite-stick-elite-651",
+    "name": "Bauer Composite Stick Elite 651",
+    "category": "Hockey",
+    "brand": "Bauer",
+    "price": 4350,
+    "currency": "INR",
+    "colors": [
+      "red"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 38,
+    "imageUrl": "https://images.unsplash.com/photo-1580748141549-71748dbe0bdc?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Bauer Composite Stick Elite 651. Engineered by Bauer for maximum durability, comfort, and results in hockey. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "hockey",
+      "bauer",
+      "sports",
+      "professional",
+      "stick"
+    ],
+    "featured": true
+  },
+  {
+    "id": 42,
+    "slug": "ccm-ice-skates-elite-421",
+    "name": "CCM Ice Skates Elite 421",
+    "category": "Hockey",
+    "brand": "CCM",
+    "price": 4857,
+    "currency": "INR",
+    "colors": [
+      "red"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "stock": 23,
+    "imageUrl": "https://images.unsplash.com/photo-1515703407324-5f753eed20b1?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the CCM Ice Skates Elite 421. Engineered by CCM for maximum durability, comfort, and results in hockey. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "hockey",
+      "ccm",
+      "sports",
+      "professional",
+      "skates"
+    ],
+    "featured": true
+  },
+  {
+    "id": 43,
+    "slug": "warrior-protective-helmet-elite-893",
+    "name": "Warrior Protective Helmet Elite 893",
+    "category": "Hockey",
+    "brand": "Warrior",
+    "price": 3933,
+    "currency": "INR",
+    "colors": [
+      "green",
+      "orange"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 63,
+    "imageUrl": "https://images.unsplash.com/photo-1563604071375-38501235bd2e?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Warrior Protective Helmet Elite 893. Engineered by Warrior for maximum durability, comfort, and results in hockey. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "hockey",
+      "warrior",
+      "sports",
+      "professional",
+      "helmet"
+    ],
+    "featured": true
+  },
+  {
+    "id": 44,
+    "slug": "stx-training-puck-set-elite-192",
+    "name": "STX Training Puck Set Elite 192",
+    "category": "Hockey",
+    "brand": "STX",
+    "price": 3336,
+    "currency": "INR",
+    "colors": [
+      "red"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 15,
+    "imageUrl": "https://images.unsplash.com/photo-1543326727-cf6c39f851eb?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the STX Training Puck Set Elite 192. Engineered by STX for maximum durability, comfort, and results in hockey. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "hockey",
+      "stx",
+      "sports",
+      "professional",
+      "puck"
+    ],
+    "featured": false
+  },
+  {
+    "id": 45,
+    "slug": "sher-wood-composite-stick-elite-342",
+    "name": "Sher-Wood Composite Stick Elite 342",
+    "category": "Hockey",
+    "brand": "Sher-Wood",
+    "price": 565,
+    "currency": "INR",
+    "colors": [
+      "white",
+      "red"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 43,
+    "imageUrl": "https://images.unsplash.com/photo-1580748141549-71748dbe0bdc?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Sher-Wood Composite Stick Elite 342. Engineered by Sher-Wood for maximum durability, comfort, and results in hockey. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "hockey",
+      "sher-wood",
+      "sports",
+      "professional",
+      "stick"
+    ],
+    "featured": false
+  },
+  {
+    "id": 46,
+    "slug": "bauer-ice-skates-elite-873",
+    "name": "Bauer Ice Skates Elite 873",
+    "category": "Hockey",
+    "brand": "Bauer",
+    "price": 6316,
+    "currency": "INR",
+    "colors": [
+      "red",
+      "blue"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "stock": 71,
+    "imageUrl": "https://images.unsplash.com/photo-1515703407324-5f753eed20b1?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Bauer Ice Skates Elite 873. Engineered by Bauer for maximum durability, comfort, and results in hockey. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "hockey",
+      "bauer",
+      "sports",
+      "professional",
+      "skates"
+    ],
+    "featured": false
+  },
+  {
+    "id": 47,
+    "slug": "ccm-protective-helmet-elite-969",
+    "name": "CCM Protective Helmet Elite 969",
+    "category": "Hockey",
+    "brand": "CCM",
+    "price": 4065,
+    "currency": "INR",
+    "colors": [
+      "red",
+      "green"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 15,
+    "imageUrl": "https://images.unsplash.com/photo-1563604071375-38501235bd2e?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the CCM Protective Helmet Elite 969. Engineered by CCM for maximum durability, comfort, and results in hockey. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "hockey",
+      "ccm",
+      "sports",
+      "professional",
+      "helmet"
+    ],
+    "featured": false
+  },
+  {
+    "id": 48,
+    "slug": "warrior-training-puck-set-elite-837",
+    "name": "Warrior Training Puck Set Elite 837",
+    "category": "Hockey",
+    "brand": "Warrior",
+    "price": 4063,
+    "currency": "INR",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 76,
+    "imageUrl": "https://images.unsplash.com/photo-1543326727-cf6c39f851eb?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Warrior Training Puck Set Elite 837. Engineered by Warrior for maximum durability, comfort, and results in hockey. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "hockey",
+      "warrior",
+      "sports",
+      "professional",
+      "puck"
+    ],
+    "featured": false
+  },
+  {
+    "id": 49,
+    "slug": "stx-composite-stick-elite-784",
+    "name": "STX Composite Stick Elite 784",
+    "category": "Hockey",
+    "brand": "STX",
+    "price": 4446,
+    "currency": "INR",
+    "colors": [
+      "black",
+      "green"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 10,
+    "imageUrl": "https://images.unsplash.com/photo-1580748141549-71748dbe0bdc?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the STX Composite Stick Elite 784. Engineered by STX for maximum durability, comfort, and results in hockey. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "hockey",
+      "stx",
+      "sports",
+      "professional",
+      "stick"
+    ],
+    "featured": false
+  },
+  {
+    "id": 50,
+    "slug": "sher-wood-ice-skates-elite-291",
+    "name": "Sher-Wood Ice Skates Elite 291",
+    "category": "Hockey",
+    "brand": "Sher-Wood",
+    "price": 6177,
+    "currency": "INR",
+    "colors": [
+      "red",
+      "green"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "stock": 75,
+    "imageUrl": "https://images.unsplash.com/photo-1515703407324-5f753eed20b1?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Sher-Wood Ice Skates Elite 291. Engineered by Sher-Wood for maximum durability, comfort, and results in hockey. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "hockey",
+      "sher-wood",
+      "sports",
+      "professional",
+      "skates"
+    ],
+    "featured": false
+  },
+  {
+    "id": 51,
+    "slug": "bauer-protective-helmet-elite-390",
+    "name": "Bauer Protective Helmet Elite 390",
+    "category": "Hockey",
+    "brand": "Bauer",
+    "price": 3417,
+    "currency": "INR",
+    "colors": [
+      "green",
+      "white"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 62,
+    "imageUrl": "https://images.unsplash.com/photo-1563604071375-38501235bd2e?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Bauer Protective Helmet Elite 390. Engineered by Bauer for maximum durability, comfort, and results in hockey. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "hockey",
+      "bauer",
+      "sports",
+      "professional",
+      "helmet"
+    ],
+    "featured": false
+  },
+  {
+    "id": 52,
+    "slug": "ccm-training-puck-set-elite-677",
+    "name": "CCM Training Puck Set Elite 677",
+    "category": "Hockey",
+    "brand": "CCM",
+    "price": 1672,
+    "currency": "INR",
+    "colors": [
+      "white",
+      "blue"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 31,
+    "imageUrl": "https://images.unsplash.com/photo-1543326727-cf6c39f851eb?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the CCM Training Puck Set Elite 677. Engineered by CCM for maximum durability, comfort, and results in hockey. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "hockey",
+      "ccm",
+      "sports",
+      "professional",
+      "puck"
+    ],
+    "featured": false
+  },
+  {
+    "id": 53,
+    "slug": "warrior-composite-stick-elite-765",
+    "name": "Warrior Composite Stick Elite 765",
+    "category": "Hockey",
+    "brand": "Warrior",
+    "price": 1420,
+    "currency": "INR",
+    "colors": [
+      "green",
+      "red"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 39,
+    "imageUrl": "https://images.unsplash.com/photo-1580748141549-71748dbe0bdc?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Warrior Composite Stick Elite 765. Engineered by Warrior for maximum durability, comfort, and results in hockey. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "hockey",
+      "warrior",
+      "sports",
+      "professional",
+      "stick"
+    ],
+    "featured": false
+  },
+  {
+    "id": 54,
+    "slug": "stx-ice-skates-elite-598",
+    "name": "STX Ice Skates Elite 598",
+    "category": "Hockey",
+    "brand": "STX",
+    "price": 10270,
+    "currency": "INR",
+    "colors": [
+      "blue"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "stock": 54,
+    "imageUrl": "https://images.unsplash.com/photo-1515703407324-5f753eed20b1?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the STX Ice Skates Elite 598. Engineered by STX for maximum durability, comfort, and results in hockey. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "hockey",
+      "stx",
+      "sports",
+      "professional",
+      "skates"
+    ],
+    "featured": false
+  },
+  {
+    "id": 55,
+    "slug": "sher-wood-protective-helmet-elite-560",
+    "name": "Sher-Wood Protective Helmet Elite 560",
+    "category": "Hockey",
+    "brand": "Sher-Wood",
+    "price": 2248,
+    "currency": "INR",
+    "colors": [
+      "black",
+      "yellow"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 35,
+    "imageUrl": "https://images.unsplash.com/photo-1563604071375-38501235bd2e?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Sher-Wood Protective Helmet Elite 560. Engineered by Sher-Wood for maximum durability, comfort, and results in hockey. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "hockey",
+      "sher-wood",
+      "sports",
+      "professional",
+      "helmet"
+    ],
+    "featured": false
+  },
+  {
+    "id": 56,
+    "slug": "bauer-training-puck-set-elite-868",
+    "name": "Bauer Training Puck Set Elite 868",
+    "category": "Hockey",
+    "brand": "Bauer",
+    "price": 1369,
+    "currency": "INR",
+    "colors": [
+      "blue",
+      "red"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 92,
+    "imageUrl": "https://images.unsplash.com/photo-1543326727-cf6c39f851eb?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Bauer Training Puck Set Elite 868. Engineered by Bauer for maximum durability, comfort, and results in hockey. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "hockey",
+      "bauer",
+      "sports",
+      "professional",
+      "puck"
+    ],
+    "featured": false
+  },
+  {
+    "id": 57,
+    "slug": "ccm-composite-stick-elite-987",
+    "name": "CCM Composite Stick Elite 987",
+    "category": "Hockey",
+    "brand": "CCM",
+    "price": 2504,
+    "currency": "INR",
+    "colors": [
+      "orange",
+      "grey"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 58,
+    "imageUrl": "https://images.unsplash.com/photo-1580748141549-71748dbe0bdc?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the CCM Composite Stick Elite 987. Engineered by CCM for maximum durability, comfort, and results in hockey. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "hockey",
+      "ccm",
+      "sports",
+      "professional",
+      "stick"
+    ],
+    "featured": false
+  },
+  {
+    "id": 58,
+    "slug": "warrior-ice-skates-elite-628",
+    "name": "Warrior Ice Skates Elite 628",
+    "category": "Hockey",
+    "brand": "Warrior",
+    "price": 6995,
+    "currency": "INR",
+    "colors": [
+      "blue",
+      "orange"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "stock": 46,
+    "imageUrl": "https://images.unsplash.com/photo-1515703407324-5f753eed20b1?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Warrior Ice Skates Elite 628. Engineered by Warrior for maximum durability, comfort, and results in hockey. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "hockey",
+      "warrior",
+      "sports",
+      "professional",
+      "skates"
+    ],
+    "featured": false
+  },
+  {
+    "id": 59,
+    "slug": "stx-protective-helmet-elite-548",
+    "name": "STX Protective Helmet Elite 548",
+    "category": "Hockey",
+    "brand": "STX",
+    "price": 3208,
+    "currency": "INR",
+    "colors": [
+      "white",
+      "green"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 73,
+    "imageUrl": "https://images.unsplash.com/photo-1563604071375-38501235bd2e?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the STX Protective Helmet Elite 548. Engineered by STX for maximum durability, comfort, and results in hockey. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "hockey",
+      "stx",
+      "sports",
+      "professional",
+      "helmet"
+    ],
+    "featured": false
+  },
+  {
+    "id": 60,
+    "slug": "sher-wood-training-puck-set-elite-907",
+    "name": "Sher-Wood Training Puck Set Elite 907",
+    "category": "Hockey",
+    "brand": "Sher-Wood",
+    "price": 3015,
+    "currency": "INR",
+    "colors": [
+      "black",
+      "grey"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 66,
+    "imageUrl": "https://images.unsplash.com/photo-1543326727-cf6c39f851eb?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Sher-Wood Training Puck Set Elite 907. Engineered by Sher-Wood for maximum durability, comfort, and results in hockey. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "hockey",
+      "sher-wood",
+      "sports",
+      "professional",
+      "puck"
+    ],
+    "featured": false
+  },
+  {
+    "id": 61,
+    "slug": "rollerblade-inline-skates-elite-895",
+    "name": "Rollerblade Inline Skates Elite 895",
+    "category": "Skating",
+    "brand": "Rollerblade",
+    "price": 3389,
+    "currency": "INR",
+    "colors": [
+      "orange",
+      "green"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "stock": 57,
+    "imageUrl": "https://images.unsplash.com/photo-1520045892732-304bc3ac5d8e?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Rollerblade Inline Skates Elite 895. Engineered by Rollerblade for maximum durability, comfort, and results in skating. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "skating",
+      "rollerblade",
+      "sports",
+      "professional",
+      "skates"
+    ],
+    "featured": true
+  },
+  {
+    "id": 62,
+    "slug": "k2-pro-skateboard-elite-883",
+    "name": "K2 Pro Skateboard Elite 883",
+    "category": "Skating",
+    "brand": "K2",
+    "price": 3010,
+    "currency": "INR",
+    "colors": [
+      "grey",
+      "blue"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 7,
+    "imageUrl": "https://images.unsplash.com/photo-1493630656041-5cba89710f64?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the K2 Pro Skateboard Elite 883. Engineered by K2 for maximum durability, comfort, and results in skating. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "skating",
+      "k2",
+      "sports",
+      "professional",
+      "skateboard"
+    ],
+    "featured": true
+  },
+  {
+    "id": 63,
+    "slug": "riedell-knee-pads-elite-460",
+    "name": "Riedell Knee Pads Elite 460",
+    "category": "Skating",
+    "brand": "Riedell",
+    "price": 1530,
+    "currency": "INR",
+    "colors": [
+      "green",
+      "white"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 29,
+    "imageUrl": "https://images.unsplash.com/photo-1510411652410-b98ac149ba75?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Riedell Knee Pads Elite 460. Engineered by Riedell for maximum durability, comfort, and results in skating. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "skating",
+      "riedell",
+      "sports",
+      "professional",
+      "pads"
+    ],
+    "featured": true
+  },
+  {
+    "id": 64,
+    "slug": "impala-helmet-elite-257",
+    "name": "Impala Helmet Elite 257",
+    "category": "Skating",
+    "brand": "Impala",
+    "price": 2779,
+    "currency": "INR",
+    "colors": [
+      "orange"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 42,
+    "imageUrl": "https://images.unsplash.com/photo-1564982752979-3f7cb9b88731?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Impala Helmet Elite 257. Engineered by Impala for maximum durability, comfort, and results in skating. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "skating",
+      "impala",
+      "sports",
+      "professional",
+      "helmet"
+    ],
+    "featured": false
+  },
+  {
+    "id": 65,
+    "slug": "bones-inline-skates-elite-506",
+    "name": "Bones Inline Skates Elite 506",
+    "category": "Skating",
+    "brand": "Bones",
+    "price": 6964,
+    "currency": "INR",
+    "colors": [
+      "green",
+      "red"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "stock": 10,
+    "imageUrl": "https://images.unsplash.com/photo-1520045892732-304bc3ac5d8e?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Bones Inline Skates Elite 506. Engineered by Bones for maximum durability, comfort, and results in skating. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "skating",
+      "bones",
+      "sports",
+      "professional",
+      "skates"
+    ],
+    "featured": false
+  },
+  {
+    "id": 66,
+    "slug": "rollerblade-pro-skateboard-elite-965",
+    "name": "Rollerblade Pro Skateboard Elite 965",
+    "category": "Skating",
+    "brand": "Rollerblade",
+    "price": 3320,
+    "currency": "INR",
+    "colors": [
+      "yellow",
+      "orange"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 64,
+    "imageUrl": "https://images.unsplash.com/photo-1493630656041-5cba89710f64?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Rollerblade Pro Skateboard Elite 965. Engineered by Rollerblade for maximum durability, comfort, and results in skating. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "skating",
+      "rollerblade",
+      "sports",
+      "professional",
+      "skateboard"
+    ],
+    "featured": false
+  },
+  {
+    "id": 67,
+    "slug": "k2-knee-pads-elite-732",
+    "name": "K2 Knee Pads Elite 732",
+    "category": "Skating",
+    "brand": "K2",
+    "price": 2908,
+    "currency": "INR",
+    "colors": [
+      "blue",
+      "red"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 40,
+    "imageUrl": "https://images.unsplash.com/photo-1510411652410-b98ac149ba75?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the K2 Knee Pads Elite 732. Engineered by K2 for maximum durability, comfort, and results in skating. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "skating",
+      "k2",
+      "sports",
+      "professional",
+      "pads"
+    ],
+    "featured": false
+  },
+  {
+    "id": 68,
+    "slug": "riedell-helmet-elite-120",
+    "name": "Riedell Helmet Elite 120",
+    "category": "Skating",
+    "brand": "Riedell",
+    "price": 4453,
+    "currency": "INR",
+    "colors": [
+      "black",
+      "grey"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 46,
+    "imageUrl": "https://images.unsplash.com/photo-1564982752979-3f7cb9b88731?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Riedell Helmet Elite 120. Engineered by Riedell for maximum durability, comfort, and results in skating. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "skating",
+      "riedell",
+      "sports",
+      "professional",
+      "helmet"
+    ],
+    "featured": false
+  },
+  {
+    "id": 69,
+    "slug": "impala-inline-skates-elite-358",
+    "name": "Impala Inline Skates Elite 358",
+    "category": "Skating",
+    "brand": "Impala",
+    "price": 9831,
+    "currency": "INR",
+    "colors": [
+      "green",
+      "black"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "stock": 23,
+    "imageUrl": "https://images.unsplash.com/photo-1520045892732-304bc3ac5d8e?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Impala Inline Skates Elite 358. Engineered by Impala for maximum durability, comfort, and results in skating. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "skating",
+      "impala",
+      "sports",
+      "professional",
+      "skates"
+    ],
+    "featured": false
+  },
+  {
+    "id": 70,
+    "slug": "bones-pro-skateboard-elite-880",
+    "name": "Bones Pro Skateboard Elite 880",
+    "category": "Skating",
+    "brand": "Bones",
+    "price": 3673,
+    "currency": "INR",
+    "colors": [
+      "yellow",
+      "green"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 56,
+    "imageUrl": "https://images.unsplash.com/photo-1493630656041-5cba89710f64?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Bones Pro Skateboard Elite 880. Engineered by Bones for maximum durability, comfort, and results in skating. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "skating",
+      "bones",
+      "sports",
+      "professional",
+      "skateboard"
+    ],
+    "featured": false
+  },
+  {
+    "id": 71,
+    "slug": "rollerblade-knee-pads-elite-111",
+    "name": "Rollerblade Knee Pads Elite 111",
+    "category": "Skating",
+    "brand": "Rollerblade",
+    "price": 3528,
+    "currency": "INR",
+    "colors": [
+      "orange",
+      "black"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 85,
+    "imageUrl": "https://images.unsplash.com/photo-1510411652410-b98ac149ba75?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Rollerblade Knee Pads Elite 111. Engineered by Rollerblade for maximum durability, comfort, and results in skating. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "skating",
+      "rollerblade",
+      "sports",
+      "professional",
+      "pads"
+    ],
+    "featured": false
+  },
+  {
+    "id": 72,
+    "slug": "k2-helmet-elite-115",
+    "name": "K2 Helmet Elite 115",
+    "category": "Skating",
+    "brand": "K2",
+    "price": 4421,
+    "currency": "INR",
+    "colors": [
+      "black",
+      "grey"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 100,
+    "imageUrl": "https://images.unsplash.com/photo-1564982752979-3f7cb9b88731?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the K2 Helmet Elite 115. Engineered by K2 for maximum durability, comfort, and results in skating. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "skating",
+      "k2",
+      "sports",
+      "professional",
+      "helmet"
+    ],
+    "featured": false
+  },
+  {
+    "id": 73,
+    "slug": "riedell-inline-skates-elite-702",
+    "name": "Riedell Inline Skates Elite 702",
+    "category": "Skating",
+    "brand": "Riedell",
+    "price": 4729,
+    "currency": "INR",
+    "colors": [
+      "red",
+      "blue"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "stock": 70,
+    "imageUrl": "https://images.unsplash.com/photo-1520045892732-304bc3ac5d8e?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Riedell Inline Skates Elite 702. Engineered by Riedell for maximum durability, comfort, and results in skating. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "skating",
+      "riedell",
+      "sports",
+      "professional",
+      "skates"
+    ],
+    "featured": false
+  },
+  {
+    "id": 74,
+    "slug": "impala-pro-skateboard-elite-323",
+    "name": "Impala Pro Skateboard Elite 323",
+    "category": "Skating",
+    "brand": "Impala",
+    "price": 2477,
+    "currency": "INR",
+    "colors": [
+      "yellow",
+      "grey"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 21,
+    "imageUrl": "https://images.unsplash.com/photo-1493630656041-5cba89710f64?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Impala Pro Skateboard Elite 323. Engineered by Impala for maximum durability, comfort, and results in skating. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "skating",
+      "impala",
+      "sports",
+      "professional",
+      "skateboard"
+    ],
+    "featured": false
+  },
+  {
+    "id": 75,
+    "slug": "bones-knee-pads-elite-617",
+    "name": "Bones Knee Pads Elite 617",
+    "category": "Skating",
+    "brand": "Bones",
+    "price": 3079,
+    "currency": "INR",
+    "colors": [
+      "blue",
+      "orange"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 12,
+    "imageUrl": "https://images.unsplash.com/photo-1510411652410-b98ac149ba75?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Bones Knee Pads Elite 617. Engineered by Bones for maximum durability, comfort, and results in skating. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "skating",
+      "bones",
+      "sports",
+      "professional",
+      "pads"
+    ],
+    "featured": false
+  },
+  {
+    "id": 76,
+    "slug": "rollerblade-helmet-elite-243",
+    "name": "Rollerblade Helmet Elite 243",
+    "category": "Skating",
+    "brand": "Rollerblade",
+    "price": 3475,
+    "currency": "INR",
+    "colors": [
+      "blue",
+      "orange"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 40,
+    "imageUrl": "https://images.unsplash.com/photo-1564982752979-3f7cb9b88731?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Rollerblade Helmet Elite 243. Engineered by Rollerblade for maximum durability, comfort, and results in skating. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "skating",
+      "rollerblade",
+      "sports",
+      "professional",
+      "helmet"
+    ],
+    "featured": false
+  },
+  {
+    "id": 77,
+    "slug": "k2-inline-skates-elite-944",
+    "name": "K2 Inline Skates Elite 944",
+    "category": "Skating",
+    "brand": "K2",
+    "price": 7813,
+    "currency": "INR",
+    "colors": [
+      "yellow"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "stock": 89,
+    "imageUrl": "https://images.unsplash.com/photo-1520045892732-304bc3ac5d8e?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the K2 Inline Skates Elite 944. Engineered by K2 for maximum durability, comfort, and results in skating. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "skating",
+      "k2",
+      "sports",
+      "professional",
+      "skates"
+    ],
+    "featured": false
+  },
+  {
+    "id": 78,
+    "slug": "riedell-pro-skateboard-elite-860",
+    "name": "Riedell Pro Skateboard Elite 860",
+    "category": "Skating",
+    "brand": "Riedell",
+    "price": 1628,
+    "currency": "INR",
+    "colors": [
+      "black",
+      "red"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 62,
+    "imageUrl": "https://images.unsplash.com/photo-1493630656041-5cba89710f64?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Riedell Pro Skateboard Elite 860. Engineered by Riedell for maximum durability, comfort, and results in skating. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "skating",
+      "riedell",
+      "sports",
+      "professional",
+      "skateboard"
+    ],
+    "featured": false
+  },
+  {
+    "id": 79,
+    "slug": "impala-knee-pads-elite-371",
+    "name": "Impala Knee Pads Elite 371",
+    "category": "Skating",
+    "brand": "Impala",
+    "price": 2945,
+    "currency": "INR",
+    "colors": [
+      "yellow",
+      "green"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 68,
+    "imageUrl": "https://images.unsplash.com/photo-1510411652410-b98ac149ba75?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Impala Knee Pads Elite 371. Engineered by Impala for maximum durability, comfort, and results in skating. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "skating",
+      "impala",
+      "sports",
+      "professional",
+      "pads"
+    ],
+    "featured": false
+  },
+  {
+    "id": 80,
+    "slug": "bones-helmet-elite-305",
+    "name": "Bones Helmet Elite 305",
+    "category": "Skating",
+    "brand": "Bones",
+    "price": 971,
+    "currency": "INR",
+    "colors": [
+      "black",
+      "orange"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 10,
+    "imageUrl": "https://images.unsplash.com/photo-1564982752979-3f7cb9b88731?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Bones Helmet Elite 305. Engineered by Bones for maximum durability, comfort, and results in skating. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "skating",
+      "bones",
+      "sports",
+      "professional",
+      "helmet"
+    ],
+    "featured": false
+  },
+  {
+    "id": 81,
+    "slug": "mikasa-beach-volleyball-elite-561",
+    "name": "Mikasa Beach Volleyball Elite 561",
+    "category": "Volleyball",
+    "brand": "Mikasa",
+    "price": 2316,
+    "currency": "INR",
+    "colors": [
+      "red",
+      "orange"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 70,
+    "imageUrl": "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Mikasa Beach Volleyball Elite 561. Engineered by Mikasa for maximum durability, comfort, and results in volleyball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "volleyball",
+      "mikasa",
+      "sports",
+      "professional",
+      "volleyball"
+    ],
+    "featured": true
+  },
+  {
+    "id": 82,
+    "slug": "tachikara-court-shoes-elite-656",
+    "name": "Tachikara Court Shoes Elite 656",
+    "category": "Volleyball",
+    "brand": "Tachikara",
+    "price": 8064,
+    "currency": "INR",
+    "colors": [
+      "grey",
+      "blue"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "stock": 104,
+    "imageUrl": "https://images.unsplash.com/photo-1592656094267-764a45160876?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Tachikara Court Shoes Elite 656. Engineered by Tachikara for maximum durability, comfort, and results in volleyball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "volleyball",
+      "tachikara",
+      "sports",
+      "professional",
+      "shoes"
+    ],
+    "featured": true
+  },
+  {
+    "id": 83,
+    "slug": "mizuno-knee-pads-elite-250",
+    "name": "Mizuno Knee Pads Elite 250",
+    "category": "Volleyball",
+    "brand": "Mizuno",
+    "price": 2147,
+    "currency": "INR",
+    "colors": [
+      "green"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 52,
+    "imageUrl": "https://images.unsplash.com/photo-1593786270032-441f7e914044?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Mizuno Knee Pads Elite 250. Engineered by Mizuno for maximum durability, comfort, and results in volleyball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "volleyball",
+      "mizuno",
+      "sports",
+      "professional",
+      "pads"
+    ],
+    "featured": true
+  },
+  {
+    "id": 84,
+    "slug": "asics-spandex-shorts-elite-781",
+    "name": "Asics Spandex Shorts Elite 781",
+    "category": "Volleyball",
+    "brand": "Asics",
+    "price": 2075,
+    "currency": "INR",
+    "colors": [
+      "black",
+      "green"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 55,
+    "imageUrl": "https://images.unsplash.com/photo-1526232761682-d26e03ac148e?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Asics Spandex Shorts Elite 781. Engineered by Asics for maximum durability, comfort, and results in volleyball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "volleyball",
+      "asics",
+      "sports",
+      "professional",
+      "shorts"
+    ],
+    "featured": false
+  },
+  {
+    "id": 85,
+    "slug": "molten-beach-volleyball-elite-783",
+    "name": "Molten Beach Volleyball Elite 783",
+    "category": "Volleyball",
+    "brand": "Molten",
+    "price": 2392,
+    "currency": "INR",
+    "colors": [
+      "orange",
+      "white"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 36,
+    "imageUrl": "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Molten Beach Volleyball Elite 783. Engineered by Molten for maximum durability, comfort, and results in volleyball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "volleyball",
+      "molten",
+      "sports",
+      "professional",
+      "volleyball"
+    ],
+    "featured": false
+  },
+  {
+    "id": 86,
+    "slug": "mikasa-court-shoes-elite-726",
+    "name": "Mikasa Court Shoes Elite 726",
+    "category": "Volleyball",
+    "brand": "Mikasa",
+    "price": 9476,
+    "currency": "INR",
+    "colors": [
+      "black",
+      "green"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "stock": 79,
+    "imageUrl": "https://images.unsplash.com/photo-1592656094267-764a45160876?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Mikasa Court Shoes Elite 726. Engineered by Mikasa for maximum durability, comfort, and results in volleyball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "volleyball",
+      "mikasa",
+      "sports",
+      "professional",
+      "shoes"
+    ],
+    "featured": false
+  },
+  {
+    "id": 87,
+    "slug": "tachikara-knee-pads-elite-565",
+    "name": "Tachikara Knee Pads Elite 565",
+    "category": "Volleyball",
+    "brand": "Tachikara",
+    "price": 2610,
+    "currency": "INR",
+    "colors": [
+      "red",
+      "yellow"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 14,
+    "imageUrl": "https://images.unsplash.com/photo-1593786270032-441f7e914044?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Tachikara Knee Pads Elite 565. Engineered by Tachikara for maximum durability, comfort, and results in volleyball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "volleyball",
+      "tachikara",
+      "sports",
+      "professional",
+      "pads"
+    ],
+    "featured": false
+  },
+  {
+    "id": 88,
+    "slug": "mizuno-spandex-shorts-elite-494",
+    "name": "Mizuno Spandex Shorts Elite 494",
+    "category": "Volleyball",
+    "brand": "Mizuno",
+    "price": 3575,
+    "currency": "INR",
+    "colors": [
+      "grey",
+      "red"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 14,
+    "imageUrl": "https://images.unsplash.com/photo-1526232761682-d26e03ac148e?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Mizuno Spandex Shorts Elite 494. Engineered by Mizuno for maximum durability, comfort, and results in volleyball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "volleyball",
+      "mizuno",
+      "sports",
+      "professional",
+      "shorts"
+    ],
+    "featured": false
+  },
+  {
+    "id": 89,
+    "slug": "asics-beach-volleyball-elite-226",
+    "name": "Asics Beach Volleyball Elite 226",
+    "category": "Volleyball",
+    "brand": "Asics",
+    "price": 3207,
+    "currency": "INR",
+    "colors": [
+      "grey",
+      "black"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 81,
+    "imageUrl": "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Asics Beach Volleyball Elite 226. Engineered by Asics for maximum durability, comfort, and results in volleyball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "volleyball",
+      "asics",
+      "sports",
+      "professional",
+      "volleyball"
+    ],
+    "featured": false
+  },
+  {
+    "id": 90,
+    "slug": "molten-court-shoes-elite-701",
+    "name": "Molten Court Shoes Elite 701",
+    "category": "Volleyball",
+    "brand": "Molten",
+    "price": 6076,
+    "currency": "INR",
+    "colors": [
+      "red",
+      "orange"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "stock": 101,
+    "imageUrl": "https://images.unsplash.com/photo-1592656094267-764a45160876?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Molten Court Shoes Elite 701. Engineered by Molten for maximum durability, comfort, and results in volleyball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "volleyball",
+      "molten",
+      "sports",
+      "professional",
+      "shoes"
+    ],
+    "featured": false
+  },
+  {
+    "id": 91,
+    "slug": "mikasa-knee-pads-elite-530",
+    "name": "Mikasa Knee Pads Elite 530",
+    "category": "Volleyball",
+    "brand": "Mikasa",
+    "price": 3250,
+    "currency": "INR",
+    "colors": [
+      "orange",
+      "green"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 13,
+    "imageUrl": "https://images.unsplash.com/photo-1593786270032-441f7e914044?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Mikasa Knee Pads Elite 530. Engineered by Mikasa for maximum durability, comfort, and results in volleyball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "volleyball",
+      "mikasa",
+      "sports",
+      "professional",
+      "pads"
+    ],
+    "featured": false
+  },
+  {
+    "id": 92,
+    "slug": "tachikara-spandex-shorts-elite-158",
+    "name": "Tachikara Spandex Shorts Elite 158",
+    "category": "Volleyball",
+    "brand": "Tachikara",
+    "price": 1361,
+    "currency": "INR",
+    "colors": [
+      "yellow",
+      "white"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 88,
+    "imageUrl": "https://images.unsplash.com/photo-1526232761682-d26e03ac148e?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Tachikara Spandex Shorts Elite 158. Engineered by Tachikara for maximum durability, comfort, and results in volleyball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "volleyball",
+      "tachikara",
+      "sports",
+      "professional",
+      "shorts"
+    ],
+    "featured": false
+  },
+  {
+    "id": 93,
+    "slug": "mizuno-beach-volleyball-elite-895",
+    "name": "Mizuno Beach Volleyball Elite 895",
+    "category": "Volleyball",
+    "brand": "Mizuno",
+    "price": 1849,
+    "currency": "INR",
+    "colors": [
+      "orange",
+      "red"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 88,
+    "imageUrl": "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Mizuno Beach Volleyball Elite 895. Engineered by Mizuno for maximum durability, comfort, and results in volleyball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "volleyball",
+      "mizuno",
+      "sports",
+      "professional",
+      "volleyball"
+    ],
+    "featured": false
+  },
+  {
+    "id": 94,
+    "slug": "asics-court-shoes-elite-654",
+    "name": "Asics Court Shoes Elite 654",
+    "category": "Volleyball",
+    "brand": "Asics",
+    "price": 7183,
+    "currency": "INR",
+    "colors": [
+      "green",
+      "orange"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "stock": 56,
+    "imageUrl": "https://images.unsplash.com/photo-1592656094267-764a45160876?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Asics Court Shoes Elite 654. Engineered by Asics for maximum durability, comfort, and results in volleyball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "volleyball",
+      "asics",
+      "sports",
+      "professional",
+      "shoes"
+    ],
+    "featured": false
+  },
+  {
+    "id": 95,
+    "slug": "molten-knee-pads-elite-257",
+    "name": "Molten Knee Pads Elite 257",
+    "category": "Volleyball",
+    "brand": "Molten",
+    "price": 4492,
+    "currency": "INR",
+    "colors": [
+      "red",
+      "yellow"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 17,
+    "imageUrl": "https://images.unsplash.com/photo-1593786270032-441f7e914044?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Molten Knee Pads Elite 257. Engineered by Molten for maximum durability, comfort, and results in volleyball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "volleyball",
+      "molten",
+      "sports",
+      "professional",
+      "pads"
+    ],
+    "featured": false
+  },
+  {
+    "id": 96,
+    "slug": "mikasa-spandex-shorts-elite-924",
+    "name": "Mikasa Spandex Shorts Elite 924",
+    "category": "Volleyball",
+    "brand": "Mikasa",
+    "price": 2607,
+    "currency": "INR",
+    "colors": [
+      "green",
+      "blue"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 103,
+    "imageUrl": "https://images.unsplash.com/photo-1526232761682-d26e03ac148e?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Mikasa Spandex Shorts Elite 924. Engineered by Mikasa for maximum durability, comfort, and results in volleyball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "volleyball",
+      "mikasa",
+      "sports",
+      "professional",
+      "shorts"
+    ],
+    "featured": false
+  },
+  {
+    "id": 97,
+    "slug": "tachikara-beach-volleyball-elite-718",
+    "name": "Tachikara Beach Volleyball Elite 718",
+    "category": "Volleyball",
+    "brand": "Tachikara",
+    "price": 3393,
+    "currency": "INR",
+    "colors": [
+      "orange",
+      "grey"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 49,
+    "imageUrl": "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Tachikara Beach Volleyball Elite 718. Engineered by Tachikara for maximum durability, comfort, and results in volleyball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "volleyball",
+      "tachikara",
+      "sports",
+      "professional",
+      "volleyball"
+    ],
+    "featured": false
+  },
+  {
+    "id": 98,
+    "slug": "mizuno-court-shoes-elite-901",
+    "name": "Mizuno Court Shoes Elite 901",
+    "category": "Volleyball",
+    "brand": "Mizuno",
+    "price": 6889,
+    "currency": "INR",
+    "colors": [
+      "black",
+      "red"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "stock": 86,
+    "imageUrl": "https://images.unsplash.com/photo-1592656094267-764a45160876?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Mizuno Court Shoes Elite 901. Engineered by Mizuno for maximum durability, comfort, and results in volleyball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "volleyball",
+      "mizuno",
+      "sports",
+      "professional",
+      "shoes"
+    ],
+    "featured": false
+  },
+  {
+    "id": 99,
+    "slug": "asics-knee-pads-elite-926",
+    "name": "Asics Knee Pads Elite 926",
+    "category": "Volleyball",
+    "brand": "Asics",
+    "price": 3759,
+    "currency": "INR",
+    "colors": [
+      "black",
+      "orange"
+    ],
+    "sizes": [
+      "one-size",
+      "Standard"
+    ],
+    "stock": 21,
+    "imageUrl": "https://images.unsplash.com/photo-1593786270032-441f7e914044?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Asics Knee Pads Elite 926. Engineered by Asics for maximum durability, comfort, and results in volleyball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "volleyball",
+      "asics",
+      "sports",
+      "professional",
+      "pads"
+    ],
+    "featured": false
+  },
+  {
+    "id": 100,
+    "slug": "molten-spandex-shorts-elite-234",
+    "name": "Molten Spandex Shorts Elite 234",
+    "category": "Volleyball",
+    "brand": "Molten",
+    "price": 1612,
+    "currency": "INR",
+    "colors": [
+      "yellow",
+      "grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 54,
+    "imageUrl": "https://images.unsplash.com/photo-1526232761682-d26e03ac148e?auto=format&fit=crop&w=800&q=80",
+    "description": "Experience top-tier performance with the Molten Spandex Shorts Elite 234. Engineered by Molten for maximum durability, comfort, and results in volleyball. Comes in multiple colors and sizes to fit your exact needs.",
+    "tags": [
+      "volleyball",
+      "molten",
+      "sports",
+      "professional",
+      "shorts"
+    ],
+    "featured": false
+  }
+]

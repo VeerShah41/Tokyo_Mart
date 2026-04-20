@@ -1,0 +1,9 @@
+services:
+  client:
+    image: anuragkaushik10/shopsmart-client:v2
+    ports:
+      - "3000:3000"
+  server:
+    image: anuragkaushik10/shopsmart-server:v2
+    ports:
+      - "5000:5000"

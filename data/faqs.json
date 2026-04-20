@@ -1,0 +1,42 @@
+[
+  {
+    "topic": "shipping",
+    "question": "How long does delivery take?",
+    "answer": "Standard shipping takes 3–5 business days. Express delivery (1–2 days) is available for ₹99 extra. Free shipping on orders above ₹999. Same-day delivery available in Delhi, Mumbai, Bengaluru, Hyderabad, and Chennai."
+  },
+  {
+    "topic": "returns",
+    "question": "What is the return policy?",
+    "answer": "We offer easy 30-day returns on all products. Items must be unused and in original packaging. Return shipping is free — just request a return from your order page and we'll arrange pickup. Refunds are processed within 5–7 business days."
+  },
+  {
+    "topic": "exchange",
+    "question": "How do I exchange a product?",
+    "answer": "You can exchange for a different size or color within 15 days of delivery, no questions asked. We'll arrange a free pickup and deliver your replacement within 3 business days."
+  },
+  {
+    "topic": "warranty",
+    "question": "What warranty do products come with?",
+    "answer": "Electronics carry a 1-year manufacturer warranty. Footwear and clothing have a 6-month warranty against manufacturing defects. Bags come with a 3-month warranty. Contact support@tokyomart.com for warranty claims."
+  },
+  {
+    "topic": "payment",
+    "question": "What payment methods are accepted?",
+    "answer": "We accept UPI (all apps including GPay, PhonePe, Paytm), credit and debit cards (Visa, Mastercard, RuPay), net banking, and EMI options starting at 0% interest on select cards. Cash on Delivery is available for orders under ₹5000."
+  },
+  {
+    "topic": "tracking",
+    "question": "How can I track my order?",
+    "answer": "Once your order is shipped, you'll receive a tracking link via email and SMS. You can also check the status in your account under 'My Orders'. Orders typically show tracking info within 24 hours of dispatch."
+  },
+  {
+    "topic": "cancellation",
+    "question": "Can I cancel my order?",
+    "answer": "Orders can be cancelled for free within 2 hours of placing them. After that, once shipped, you'll need to use our return process. Contact support@tokyomart.com or call +91 98765 43210 for urgent cancellations."
+  },
+  {
+    "topic": "cod",
+    "question": "Is Cash on Delivery available?",
+    "answer": "Yes, Cash on Delivery (COD) is available for orders under ₹5000. A small COD handling fee of ₹25 may apply. COD is available across all major cities and towns in India."
+  }
+]

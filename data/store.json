@@ -1,0 +1,16 @@
+{
+  "name": "Tokyo Mart",
+  "tagline": "Shop Smarter with AI",
+  "description": "Tokyo Mart is your one-stop shop for footwear, bags, electronics, clothing, and fitness gear. Powered by an AI sales assistant.",
+  "currency": "INR",
+  "supportEmail": "support@tokyomart.com",
+  "supportPhone": "+91 98765 43210",
+  "supportHours": "Mon–Sat, 9 AM to 7 PM IST",
+  "policies": {
+    "shipping": "Free shipping on all orders above ₹999. Standard delivery takes 3–5 business days. Express delivery (1–2 days) available for ₹99 extra. Same-day delivery available in select metro cities.",
+    "returns": "Easy 30-day returns on all products. Items must be unused and in original packaging. Return shipping is free. Refunds processed within 5–7 business days.",
+    "exchange": "Free size and color exchange within 15 days of delivery. No questions asked. We'll arrange a pickup and deliver your replacement within 3 days.",
+    "warranty": "All electronics come with a 1-year manufacturer warranty. Clothing and footwear have a 6-month warranty against manufacturing defects. Bags carry a 3-month warranty.",
+    "payment": "We accept UPI (all apps), credit/debit cards (Visa, Mastercard, RuPay), net banking, and EMI options starting at 0% on select cards. Cash on Delivery available for orders under ₹5000."
+  }
+}

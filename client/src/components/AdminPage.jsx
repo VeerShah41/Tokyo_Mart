@@ -1,4 +1,5 @@
 import { useState, useEffect, useMemo, useCallback } from 'react';
+import { Link } from 'react-router-dom';
 import { Box, Star, CheckCircle, IndianRupee, RefreshCw, Plus, Search, Settings, Edit2, Trash2 } from 'lucide-react';
 import { apiFetch, formatCurrency, getStoredUser } from '../lib/api';
 
@@ -277,6 +278,10 @@ export default function AdminPage() {
     <div className="admin-layout">
       {/* ── Sidebar ── */}
       <aside className="admin-sidebar">
+        <Link to="/" className="admin-back-link">
+          ← Back to Home
+        </Link>
+
         <div style={{ padding: '0.5rem 0', marginBottom: '1rem' }}>
           <div style={{ fontFamily: 'var(--font-head)', fontWeight: 700, fontSize: '0.9rem', padding: '0 0.5rem', marginBottom: '0.5rem', display: 'flex', alignItems: 'center', gap: '6px' }}>
             <Settings size={16} /> Admin Panel

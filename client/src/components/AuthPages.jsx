@@ -2,6 +2,21 @@ import { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { apiFetch } from '../lib/api';
 
+const demoAccess = [
+  {
+    label: 'Customer Demo',
+    email: 'user@tokyomart.com',
+    password: 'User@123',
+    note: 'Shopping, cart, checkout, and account orders',
+  },
+  {
+    label: 'Admin Demo',
+    email: 'admin@tokyomart.com',
+    password: 'Admin@123',
+    note: 'Inventory and admin dashboard access',
+  },
+];
+
 export function LoginPage({ setUser }) {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
@@ -31,6 +46,12 @@ export function LoginPage({ setUser }) {
     }
   };
 
+  const fillDemo = (account) => {
+    setEmail(account.email);
+    setPassword(account.password);
+    setError(null);
+  };
+
   return (
     <div className="auth-page">
       <div className="auth-logo">
@@ -42,6 +63,9 @@ export function LoginPage({ setUser }) {
 
       <div className="auth-container">
         <h2>Sign in</h2>
+        <p className="auth-helper">
+          Demo customer aur admin credentials niche diye hue hain.
+        </p>
         
         {error && <div className="auth-error">{error}</div>}
 
@@ -76,6 +100,22 @@ export function LoginPage({ setUser }) {
         <p className="auth-disclaimer">
           By continuing, you agree to Tokyo Mart's Conditions of Use and Privacy Notice.
         </p>
+
+        <div className="demo-login-grid">
+          {demoAccess.map((account) => (
+            <button
+              key={account.label}
+              type="button"
+              className="demo-login-card"
+              onClick={() => fillDemo(account)}
+            >
+              <span className="demo-login-label">{account.label}</span>
+              <strong>{account.email}</strong>
+              <code>{account.password}</code>
+              <small>{account.note}</small>
+            </button>
+          ))}
+        </div>
       </div>
 
       <div className="auth-divider">
@@ -130,6 +170,9 @@ export function RegisterPage({ setUser }) {
 
       <div className="auth-container">
         <h2>Create account</h2>
+        <p className="auth-helper">
+          New users customer account se start karenge. Admin access demo admin login se available hai.
+        </p>
         
         {error && <div className="auth-error">{error}</div>}
 

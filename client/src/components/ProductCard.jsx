@@ -27,7 +27,7 @@ function ColorDot({ color }) {
 }
 
 // ─── Product Card ─────────────────────────────────────────────────────────────
-export default function ProductCard({ product, onAskAI, compact = false }) {
+export default function ProductCard({ product, compact = false }) {
   const navigate = useNavigate();
   const { addToCart } = useCart();
 
@@ -88,15 +88,6 @@ export default function ProductCard({ product, onAskAI, compact = false }) {
 
       {/* Footer Actions */}
       <div className="product-card-footer">
-        <button
-          className="btn btn-outline btn-sm"
-          onClick={(e) => {
-            e.stopPropagation();
-            if (onAskAI) onAskAI(`Tell me more about ${product.name}`);
-          }}
-        >
-          Ask AI
-        </button>
         <button
           className="btn btn-primary btn-sm"
           disabled={product.stock <= 0}

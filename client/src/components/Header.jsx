@@ -1,10 +1,10 @@
 import { Link, useNavigate } from 'react-router-dom';
 import { useCart } from '../contexts/CartContext';
-import { ShoppingCart, LogOut, Package } from 'lucide-react';
+import { ShoppingCart, LogOut, Package, Minus, Plus, X } from 'lucide-react';
 import { formatCurrency } from '../lib/api';
 
 export default function Header({ user, onLogout }) {
-  const { cart, totalItems, totalPrice, removeFromCart, isCartOpen, setIsCartOpen } = useCart();
+  const { cart, totalItems, totalPrice, removeFromCart, updateQuantity, isCartOpen, setIsCartOpen } = useCart();
   const navigate = useNavigate();
 
   return (
@@ -65,8 +65,13 @@ export default function Header({ user, onLogout }) {
         <div className="cart-overlay" onClick={() => setIsCartOpen(false)}>
           <div className="cart-sidebar" onClick={e => e.stopPropagation()}>
             <div className="cart-top">
-              <h3>Your Cart</h3>
-              <button onClick={() => setIsCartOpen(false)} style={{ background: 'none', border: 'none', cursor: 'pointer', fontSize: '1.2rem', color: 'var(--text-3)' }}>&times;</button>
+              <div>
+                <h3>Your Cart</h3>
+                <p className="cart-subtitle">{totalItems > 0 ? `${totalItems} item${totalItems > 1 ? 's' : ''} ready to checkout` : 'Add products to start your order'}</p>
+              </div>
+              <button className="cart-close-btn" onClick={() => setIsCartOpen(false)} aria-label="Close cart">
+                <X size={18} />
+              </button>
             </div>
             
             <div className="cart-items">
@@ -82,15 +87,40 @@ export default function Header({ user, onLogout }) {
                     <img src={item.product.imageUrl} alt={item.product.name} className="cart-item-img" />
                     <div className="cart-item-info">
                       <div className="cart-item-name">{item.product.name}</div>
-                      <div className="cart-item-meta">Size: {item.size} • Qty: {item.quantity}</div>
-                      <div className="cart-item-price">{formatCurrency(item.product.price * item.quantity, item.product.currency)}</div>
+                      <div className="cart-item-meta">Size: {item.size}</div>
+                      <div className="cart-item-controls">
+                        <div className="quantity-stepper">
+                          <button
+                            type="button"
+                            className="quantity-btn"
+                            onClick={() => updateQuantity(item.product.id, item.size, item.quantity - 1)}
+                            aria-label={`Decrease quantity of ${item.product.name}`}
+                          >
+                            <Minus size={14} />
+                          </button>
+                          <span className="quantity-value">{item.quantity}</span>
+                          <button
+                            type="button"
+                            className="quantity-btn"
+                            onClick={() => updateQuantity(item.product.id, item.size, item.quantity + 1)}
+                            aria-label={`Increase quantity of ${item.product.name}`}
+                          >
+                            <Plus size={14} />
+                          </button>
+                        </div>
+                        <button
+                          type="button"
+                          className="cart-remove-btn"
+                          onClick={() => removeFromCart(item.product.id, item.size)}
+                        >
+                          Remove
+                        </button>
+                      </div>
+                      <div className="cart-item-price-row">
+                        <span className="cart-item-unit">{formatCurrency(item.product.price, item.product.currency)} each</span>
+                        <div className="cart-item-price">{formatCurrency(item.product.price * item.quantity, item.product.currency)}</div>
+                      </div>
                     </div>
-                    <button 
-                      onClick={() => removeFromCart(item.product.id, item.size)}
-                      style={{ background: 'none', border: 'none', color: 'var(--red)', cursor: 'pointer' }}
-                    >
-                      &times;
-                    </button>
                   </div>
                 ))
               )}
@@ -98,6 +128,16 @@ export default function Header({ user, onLogout }) {
 
             {cart.length > 0 && (
               <div className="cart-bottom">
+                <div className="cart-summary-card">
+                  <div className="cart-summary-row">
+                    <span>Items</span>
+                    <strong>{totalItems}</strong>
+                  </div>
+                  <div className="cart-summary-row">
+                    <span>Estimated total</span>
+                    <strong>{formatCurrency(totalPrice)}</strong>
+                  </div>
+                </div>
                 <div className="cart-total">
                   <span className="cart-total-label">Subtotal</span>
                   <span className="cart-total-price">{formatCurrency(totalPrice)}</span>

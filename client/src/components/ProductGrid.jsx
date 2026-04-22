@@ -4,7 +4,7 @@ import { Search, ShoppingBag } from 'lucide-react';
 import { useCart } from '../contexts/CartContext';
 import { apiFetch } from '../lib/api';
 
-export default function ProductGrid({ onAskAI }) {
+export default function ProductGrid() {
   const [products, setProducts] = useState([]);
   const [categories, setCategories] = useState(['All']);
   const [loading, setLoading] = useState(true);

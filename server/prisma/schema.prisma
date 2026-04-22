@@ -1,6 +1,3 @@
-// This is your Prisma schema file,
-// learn more about it in the docs: https://pris.ly/d/prisma-schema
-
 generator client {
   provider = "prisma-client-js"
 }
@@ -10,65 +7,44 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-// ─── User ────────────────────────────────────────────────────────────────────
 model User {
   id        Int      @id @default(autoincrement())
   name      String
   email     String   @unique
   password  String
-  role      String   @default("customer") // "customer" | "admin"
+  role      String   @default("customer")
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
 
-  orders    Order[]
-  cartItems CartItem[]
+  orders Order[]
 }
 
-// ─── Category ────────────────────────────────────────────────────────────────
-model Category {
-  id        Int       @id @default(autoincrement())
-  name      String    @unique
-  createdAt DateTime  @default(now())
-
-  products  Product[]
-}
-
-// ─── Product ─────────────────────────────────────────────────────────────────
 model Product {
   id          Int      @id @default(autoincrement())
+  slug        String   @unique
   name        String
-  description String
+  category    String   @default("")
+  brand       String   @default("")
   price       Float
+  currency    String   @default("INR")
+  colors      String   @default("[]")
+  sizes       String   @default("[]")
   stock       Int      @default(0)
-  imageUrl    String?
-  categoryId  Int
+  imageUrl    String   @default("")
+  description String
+  tags        String   @default("[]")
+  featured    Boolean  @default(false)
   createdAt   DateTime @default(now())
   updatedAt   DateTime @updatedAt
 
-  category   Category   @relation(fields: [categoryId], references: [id])
-  cartItems  CartItem[]
   orderItems OrderItem[]
 }
 
-// ─── Cart ─────────────────────────────────────────────────────────────────────
-model CartItem {
-  id        Int     @id @default(autoincrement())
-  userId    Int
-  productId Int
-  quantity  Int     @default(1)
-
-  user    User    @relation(fields: [userId], references: [id])
-  product Product @relation(fields: [productId], references: [id])
-
-  @@unique([userId, productId])
-}
-
-// ─── Order ───────────────────────────────────────────────────────────────────
 model Order {
   id          Int      @id @default(autoincrement())
   userId      Int
   totalAmount Float
-  status      String   @default("pending") // pending | processing | shipped | delivered | cancelled
+  status      String   @default("pending")
   createdAt   DateTime @default(now())
   updatedAt   DateTime @updatedAt
 
@@ -76,13 +52,13 @@ model Order {
   orderItems OrderItem[]
 }
 
-// ─── OrderItem ───────────────────────────────────────────────────────────────
 model OrderItem {
-  id        Int   @id @default(autoincrement())
+  id        Int    @id @default(autoincrement())
   orderId   Int
   productId Int
   quantity  Int
   price     Float
+  size      String @default("one-size")
 
   order   Order   @relation(fields: [orderId], references: [id])
   product Product @relation(fields: [productId], references: [id])

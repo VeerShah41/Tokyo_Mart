@@ -1,67 +1,86 @@
 const prisma = require('../lib/prisma');
 
-// ─── GET /api/categories ──────────────────────────────────────────────────────
-const getAllCategories = async (req, res) => {
+const normalizeCategory = (value) => decodeURIComponent(String(value || '')).trim();
+
+const getAllCategories = async (_req, res) => {
   try {
-    const categories = await prisma.category.findMany({ orderBy: { name: 'asc' } });
-    res.json(categories);
+    const rows = await prisma.product.findMany({
+      select: { category: true },
+      distinct: ['category'],
+      orderBy: { category: 'asc' },
+    });
+
+    res.json(rows.filter((row) => row.category).map((row) => ({ name: row.category })));
   } catch (err) {
     res.status(500).json({ message: 'Server error.', error: err.message });
   }
 };
 
-// ─── GET /api/categories/:id ──────────────────────────────────────────────────
 const getCategoryById = async (req, res) => {
   try {
-    const category = await prisma.category.findUnique({
-      where: { id: Number(req.params.id) },
-      include: { products: true },
+    const category = normalizeCategory(req.params.id);
+    const products = await prisma.product.findMany({
+      where: { category },
+      orderBy: { name: 'asc' },
     });
-    if (!category) return res.status(404).json({ message: 'Category not found.' });
-    res.json(category);
-  } catch (err) {
-    res.status(500).json({ message: 'Server error.', error: err.message });
-  }
-};
 
-// ─── POST /api/categories (admin) ────────────────────────────────────────────
-const createCategory = async (req, res) => {
-  try {
-    const { name } = req.body;
-    if (!name) return res.status(400).json({ message: 'name is required.' });
-
-    const category = await prisma.category.create({ data: { name } });
-    res.status(201).json({ message: 'Category created.', category });
-  } catch (err) {
-    if (err.code === 'P2002') {
-      return res.status(409).json({ message: 'Category name already exists.' });
+    if (!products.length) {
+      return res.status(404).json({ message: 'Category not found.' });
     }
+
+    res.json({ name: category, products });
+  } catch (err) {
     res.status(500).json({ message: 'Server error.', error: err.message });
   }
 };
 
-// ─── PUT /api/categories/:id (admin) ─────────────────────────────────────────
+const createCategory = async (req, res) => {
+  const name = normalizeCategory(req.body?.name);
+
+  if (!name) {
+    return res.status(400).json({ message: 'name is required.' });
+  }
+
+  return res.status(200).json({
+    message: 'Categories are derived from product data. Create a product with this category to make it available.',
+    category: { name },
+  });
+};
+
 const updateCategory = async (req, res) => {
   try {
-    const id = Number(req.params.id);
-    const { name } = req.body;
-    if (!name) return res.status(400).json({ message: 'name is required.' });
+    const currentName = normalizeCategory(req.params.id);
+    const nextName = normalizeCategory(req.body?.name);
 
-    const category = await prisma.category.update({ where: { id }, data: { name } });
-    res.json({ message: 'Category updated.', category });
+    if (!currentName || !nextName) {
+      return res.status(400).json({ message: 'Current category and new name are required.' });
+    }
+
+    const result = await prisma.product.updateMany({
+      where: { category: currentName },
+      data: { category: nextName },
+    });
+
+    if (!result.count) {
+      return res.status(404).json({ message: 'Category not found.' });
+    }
+
+    res.json({ message: 'Category updated.', category: { name: nextName, updatedProducts: result.count } });
   } catch (err) {
     res.status(500).json({ message: 'Server error.', error: err.message });
   }
 };
 
-// ─── DELETE /api/categories/:id (admin) ──────────────────────────────────────
 const deleteCategory = async (req, res) => {
-  try {
-    await prisma.category.delete({ where: { id: Number(req.params.id) } });
-    res.json({ message: 'Category deleted.' });
-  } catch (err) {
-    res.status(500).json({ message: 'Server error.', error: err.message });
+  const category = normalizeCategory(req.params.id);
+
+  if (!category) {
+    return res.status(400).json({ message: 'Category is required.' });
   }
+
+  return res.status(400).json({
+    message: 'Categories are derived from products. Delete or reassign products in this category instead.',
+  });
 };
 
 module.exports = { getAllCategories, getCategoryById, createCategory, updateCategory, deleteCategory };

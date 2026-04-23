@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  server:
+    build:
+      context: ./server
+      dockerfile: Dockerfile
+    container_name: tokyo_mart_server
+    ports:
+      - "5001:5001"
+    environment:
+      - NODE_ENV=development
+      - PORT=5001
+    volumes:
+      # Mount the local codebase for hot-reloading if dev script is used
+      - ./server:/app
+      # Exclude node_modules from the host to prevent cross-platform issues
+      - /app/node_modules
+
+  client:
+    build:
+      context: ./client
+      dockerfile: Dockerfile
+    container_name: tokyo_mart_client
+    ports:
+      - "5173:5173"
+    environment:
+      - NODE_ENV=development
+      # Tell Vite to proxy API requests to the server container
+      - VITE_API_TARGET=http://server:5001
+    volumes:
+      - ./client:/app
+      - /app/node_modules
+    depends_on:
+      - server

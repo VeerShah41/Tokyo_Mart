@@ -22,7 +22,8 @@ app.use(
   cors({
     origin: (origin, callback) => {
       if (!origin) return callback(null, true); // allow server-to-server / curl
-      // Allow any *.vercel.app preview URL for this project
+      // Allow Render static sites and Vercel preview URLs
+      if (origin.endsWith('.onrender.com')) return callback(null, true);
       if (origin.endsWith('.vercel.app')) return callback(null, true);
       if (allowedOrigins.includes(origin)) return callback(null, true);
       return callback(new Error(`CORS blocked: ${origin}`));

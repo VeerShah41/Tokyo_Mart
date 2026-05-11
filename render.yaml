@@ -1,27 +1,38 @@
 services:
+  # ── Backend: Node/Express API ─────────────────────────────────────────────
   - type: web
     name: tokyo-mart-backend
     env: node
     plan: free
     region: oregon
-    # Build: install deps, generate prisma client, compile TypeScript
     buildCommand: cd server && npm install && npx prisma generate && npm run build
-    # Start: run the compiled JS
-    startCommand: cd server && npm start
+    startCommand: cd server && npx prisma db push && node prisma/seed.js && node dist/index.js
     envVars:
       - key: NODE_ENV
         value: production
       - key: PORT
         value: 10000
       - key: DATABASE_URL
-        value: file:./dev.db          # Fallback — override with TURSO vars below
-      - key: TURSO_DATABASE_URL
-        sync: false                   # Set in Render Dashboard → libsql://xxx.turso.io
-      - key: TURSO_AUTH_TOKEN
-        sync: false                   # Set in Render Dashboard → your Turso auth token
+        value: file:./prod.db
       - key: JWT_SECRET
-        sync: false                   # Set in Render Dashboard → strong random string
+        sync: false                   # ← Set in Render Dashboard
       - key: GEMINI_API_KEY
-        sync: false                   # Set in Render Dashboard → your Gemini API key
+        sync: false                   # ← Set in Render Dashboard
       - key: CLIENT_URL
-        sync: false                   # Set in Render Dashboard → https://your-app.vercel.app
+        sync: false                   # ← Set after frontend deploys
+
+  # ── Frontend: React/Vite Static Site ─────────────────────────────────────
+  - type: static
+    name: tokyo-mart-frontend
+    buildCommand: cd client && npm install && npm run build
+    staticPublishPath: client/dist
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+    envVars:
+      - key: VITE_API_URL
+        fromService:
+          type: web
+          name: tokyo-mart-backend
+          property: host

@@ -1,7 +1,13 @@
 node_modules
 .DS_Store
 .env
+.env.local
+.env.production.local
 dist
 build
 coverage
 .vercel
+
+# SQLite database files (use Turso in production)
+*.db
+*.db-journal

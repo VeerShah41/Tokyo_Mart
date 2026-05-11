@@ -20,7 +20,7 @@ export class ProductController extends BaseController {
   // Another route handler utilizing try-catch abstraction from BaseController
   public executeGetById = async (req: Request, res: Response, next: NextFunction): Promise<void> => {
     try {
-      const id = parseInt(req.params.id);
+      const id = parseInt(req.params.id as string);
       const product = await this.productService.getProductById(id);
       if (!product) {
         this.sendError(res, "Product not found", 404);

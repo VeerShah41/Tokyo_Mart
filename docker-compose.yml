@@ -12,9 +12,7 @@ services:
       - NODE_ENV=development
       - PORT=5001
     volumes:
-      # Mount the local codebase for hot-reloading if dev script is used
       - ./server:/app
-      # Exclude node_modules from the host to prevent cross-platform issues
       - /app/node_modules
 
   client:
@@ -26,7 +24,6 @@ services:
       - "5173:5173"
     environment:
       - NODE_ENV=development
-      # Tell Vite to proxy API requests to the server container
       - VITE_API_TARGET=http://server:5001
     volumes:
       - ./client:/app

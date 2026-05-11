@@ -37,10 +37,10 @@ function formatProduct(p, reason = '') {
  * Filter products from SQLite using Prisma.
  * Returns at most 3 results, sorted by budget proximity if maxPrice given.
  */
-async function searchProducts(filters = {}) {
+async function searchProducts(filters: any = {}) {
   const { category, brand, color, maxPrice, minPrice, size, tags, featured } = filters;
 
-  const where = {
+  const where: any = {
     stock: { gt: 0 }, // only in-stock
   };
 

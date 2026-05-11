@@ -11,14 +11,19 @@ const chatRoutes = require('./routes/chat.routes');
 const app = express();
 
 // ─── CORS ────────────────────────────────────────────────────────────────────
-const allowedOrigins = process.env.CLIENT_URL
-  ? [process.env.CLIENT_URL, 'http://localhost:5173', 'http://localhost:3000']
-  : ['http://localhost:3000', 'http://localhost:5173'];
+// CLIENT_URL can be comma-separated list: "https://tokyo-mart.vercel.app,https://preview.vercel.app"
+const baseAllowed = ['http://localhost:5173', 'http://localhost:3000'];
+const envOrigins = process.env.CLIENT_URL
+  ? process.env.CLIENT_URL.split(',').map((u) => u.trim())
+  : [];
+const allowedOrigins = [...new Set([...baseAllowed, ...envOrigins])];
 
 app.use(
   cors({
     origin: (origin, callback) => {
-      if (!origin) return callback(null, true);
+      if (!origin) return callback(null, true); // allow server-to-server / curl
+      // Allow any *.vercel.app preview URL for this project
+      if (origin.endsWith('.vercel.app')) return callback(null, true);
       if (allowedOrigins.includes(origin)) return callback(null, true);
       return callback(new Error(`CORS blocked: ${origin}`));
     },

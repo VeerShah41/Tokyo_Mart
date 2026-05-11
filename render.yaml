@@ -1,22 +1,27 @@
 services:
   - type: web
-    name: shopsmart-backend
+    name: tokyo-mart-backend
     env: node
     plan: free
-    buildCommand: cd server && npm install
+    region: oregon
+    # Build: install deps, generate prisma client, compile TypeScript
+    buildCommand: cd server && npm install && npx prisma generate && npm run build
+    # Start: run the compiled JS
     startCommand: cd server && npm start
     envVars:
+      - key: NODE_ENV
+        value: production
       - key: PORT
         value: 10000
-
-  - type: static
-    name: shopsmart-frontend
-    env: static
-    buildCommand: cd client && npm install && npm run build
-    staticPublishPath: client/dist
-    envVars:
-      - key: VITE_API_URL
-        fromService:
-          type: web
-          name: shopsmart-backend
-          property: url
+      - key: DATABASE_URL
+        value: file:./dev.db          # Fallback — override with TURSO vars below
+      - key: TURSO_DATABASE_URL
+        sync: false                   # Set in Render Dashboard → libsql://xxx.turso.io
+      - key: TURSO_AUTH_TOKEN
+        sync: false                   # Set in Render Dashboard → your Turso auth token
+      - key: JWT_SECRET
+        sync: false                   # Set in Render Dashboard → strong random string
+      - key: GEMINI_API_KEY
+        sync: false                   # Set in Render Dashboard → your Gemini API key
+      - key: CLIENT_URL
+        sync: false                   # Set in Render Dashboard → https://your-app.vercel.app

@@ -17,7 +17,7 @@ const getAllProducts = async (req, res) => {
     const { category, search, featured, page = 1, limit = 50 } = req.query;
     const skip = (Number(page) - 1) * Number(limit);
 
-    const where = {};
+    const where: any = {};
     if (category) where.category = { contains: category };
     if (featured === 'true') where.featured = true;
     if (search) {

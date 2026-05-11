@@ -4,7 +4,8 @@
   "description": "Backend API for Tokyo Mart – SQLite + Prisma + Express",
   "main": "src/index.ts",
   "scripts": {
-    "start": "ts-node src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js",
     "dev": "ts-node-dev --respawn --transpile-only src/index.ts",
     "test": "jest",
     "lint": "echo 'No linter configured yet'",

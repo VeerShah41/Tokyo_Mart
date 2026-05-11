@@ -22,8 +22,9 @@ services:
         sync: false                   # ← Set after frontend deploys
 
   # ── Frontend: React/Vite Static Site ─────────────────────────────────────
-  - type: static
+  - type: web
     name: tokyo-mart-frontend
+    env: static
     buildCommand: cd client && npm install && npm run build
     staticPublishPath: client/dist
     routes:
